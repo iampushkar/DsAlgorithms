@@ -30,11 +30,13 @@ class Solution {
         if (n == 0) {
             return 1.0;
         }
+        
         double partition = helper(x, n / 2);
         return (n % 2 == 0) ? partition * partition : x * partition * partition;
     }
 }
 /*
+
 34.00515 
 -3
 2.10000
