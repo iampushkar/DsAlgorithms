@@ -1,42 +1,62 @@
 class MinStack {
-    Stack<Integer> st;
-    Stack<Integer> minStack;
+    
+    Stack<Long> stack;
+    long minElement;
     
     public MinStack() {
-        st = new Stack<>();
-        minStack = new Stack<>();
+        stack = new Stack<>();
     }
     
-    public void push(int val) {
-        st.push(val);
-        
-        if(minStack.size() == 0 || minStack.peek() >= val) {
-            minStack.push(val);
+    public void push(int x) {
+        if(stack.isEmpty()) {
+            stack.push(1L*x);
+            minElement = x;
+        } else {
+            if(x >= minElement) {
+                stack.push(1L*x);
+            } else if(x < minElement) { // flag
+                long val = 1L * 2 * x - minElement;  // top = 2 * currMin - prevMin
+                stack.push(val);
+                minElement = x;
+            }
         }
     }
-    
+
     public void pop() {
-        if(st.isEmpty()) {
+        if(stack.isEmpty()) {
             return;
-        }
-        int ans = st.pop();
-        if(minStack.peek() == ans) {
-            minStack.pop();
+        } else {
+            long top = stack.peek();
+            if(top >= minElement) {
+                stack.pop();
+            } else if(top < minElement) { // flag
+                long val = 1L * 2 * minElement - top; // prevMin = 2 * currMin - top
+                stack.pop();
+                minElement = val;
+            }
         }
     }
-    
+
     public int top() {
-        if(st.isEmpty()) {
-            return -1;
+        long ans = -1;
+        if(stack.isEmpty()) {
+            return (int)ans;
+        } else {
+            long top = stack.peek();
+            if(top >= minElement) {
+                ans = top;
+            } else if(top < minElement) { // flag
+                ans = minElement;
+            }
         }
-        return st.peek();
+        return (int)ans;
     }
-    
+
     public int getMin() {
-        if(minStack.isEmpty()) {
+        if(stack.isEmpty()) {
             return -1;
         }
-        return minStack.peek();
+        return (int)minElement;
     }
 }
 
