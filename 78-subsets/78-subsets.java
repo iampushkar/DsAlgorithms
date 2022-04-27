@@ -1,22 +1,20 @@
 class Solution {
+    
+    List<List<Integer>> ans = new ArrayList<>();
     public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> list = new ArrayList<>();
-        int N = nums.length;
-        int subsetSize = 1<<N;
+        if(nums.length == 0) { return ans; }
         
-        for(int i=0; i<subsetSize; i++) {
-            List<Integer> subList = new ArrayList<>();
-            for(int j=0; j<N; j++) {
-                if(checkBit(i, j)) {
-                    subList.add(nums[j]);
-                }
-            }
-            list.add(subList);
-        }
-        return list;
+        backtrack(0, new ArrayList<Integer>(), nums);
+        return ans;
     }
     
-    private static boolean checkBit(int N, int i) {
-        return ((N>>i) & 1) == 1;
+    private void backtrack(int pos, ArrayList<Integer> curr, int[] nums) {
+        ans.add(new ArrayList<Integer>(curr));
+        
+        for(int i=pos; i<nums.length; i++) {
+            curr.add(nums[i]);
+            backtrack(i+1, curr, nums);
+            curr.remove(curr.size()-1);
+        }
     }
 }
