@@ -3,11 +3,7 @@ class Solution {
         String s1 = delete(s);
         String t1 = delete(t);
         
-        if(s1.equals(t1)) {
-            return true;
-        } else {
-            return false;
-        }
+        return s1.equals(t1);
     }
     
     private String delete(String s) {
@@ -22,11 +18,13 @@ class Solution {
             }
         }
         
-        StringBuilder sb = new StringBuilder();
-        while(!st.isEmpty()) {
-            sb.append(st.pop());
-        }
+//         StringBuilder sb = new StringBuilder();
+//         while(!st.isEmpty()) {
+//             sb.append(st.pop());
+//         }
         
-        return sb.reverse().toString();
+//         return sb.reverse().toString();
+        
+        return String.valueOf(st);
     }
 }
