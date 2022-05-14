@@ -30,7 +30,7 @@ class Solution {
         
         if(Math.abs(left-right) > 1) return -1;
         
-        return 1 + Math.max(help(root.left), help(root.right));
+        return 1 + Math.max(left, right);
     }
         
 }
