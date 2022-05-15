@@ -5,12 +5,14 @@ class Solution {
             int count = 0;
             
             for(int val : candidates) {
-                if(((val >> i) & 1) == 1) {
-                    count++;
-                }
+                if(checkBit(val, i)) { count++; }
             }
             max = Math.max(max, count);
         }
         return max;
+    }
+    
+    private boolean checkBit(int val, int i) {
+        return ((val >> i) & 1) == 1;
     }
 }
