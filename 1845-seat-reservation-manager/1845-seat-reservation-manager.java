@@ -1,28 +1,28 @@
 class SeatManager {
 
     int numSeats;
-    HashMap<Integer, Boolean> map;
+    //HashMap<Integer, Boolean> map;
     PriorityQueue<Integer> minUnreserve;
     
     public SeatManager(int n) {
         this.numSeats = n;
-        map = new HashMap<>();
+        //map = new HashMap<>();
         minUnreserve = new PriorityQueue<>();
         
         for(int i=1; i<=n; i++) {
-            map.put(i, false);
+            //map.put(i, false);
             minUnreserve.add(i);
         }
     }
     
     public int reserve() {
         int seatNum = minUnreserve.poll();
-        map.put(seatNum, true);
+        //map.put(seatNum, true);
         return seatNum;
     }
     
     public void unreserve(int seatNumber) {
-        map.put(seatNumber, false);
+        //map.put(seatNumber, false);
         minUnreserve.add(seatNumber);
     }
 }
