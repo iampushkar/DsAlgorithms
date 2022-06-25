@@ -12,20 +12,7 @@ class Solution {
     private void printNQueens(int[][] chess, int row) {
         if(row == chess.length) {
             //iterate and print the matrix
-            List<String> currList = new ArrayList<>();
-            for(int i=0; i<chess.length; i++) {
-                StringBuilder sb = new StringBuilder();
-                for(int j=0; j<chess.length; j++) {
-                    int val = chess[i][j];
-                    if(val == 0) {
-                        sb.append(".");
-                    } else if(val == 1) {
-                        sb.append("Q");
-                    }
-                }
-                currList.add(sb.toString());
-            }
-            ans.add(currList);
+            addToAnsList(chess);
             return;
         }
 
@@ -63,4 +50,20 @@ class Solution {
         return true;
     }
     
+    private void addToAnsList(int[][] chess) {
+        List<String> currList = new ArrayList<>();
+        for(int i=0; i<chess.length; i++) {
+            StringBuilder sb = new StringBuilder();
+            for(int j=0; j<chess.length; j++) {
+                int val = chess[i][j];
+                if(val == 0) {
+                      sb.append(".");
+                } else if(val == 1) {
+                    sb.append("Q");
+                }
+            }
+            currList.add(sb.toString());
+        }
+        ans.add(currList);
+    }
 }
