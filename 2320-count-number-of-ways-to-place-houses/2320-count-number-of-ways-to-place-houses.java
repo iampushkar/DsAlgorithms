@@ -12,9 +12,9 @@ class Solution {
         long ans = ( (dp[n] % mod) * (dp[n] % mod) ) % mod;
         
         
-        if(ans < 0) {
-            ans = (ans + mod) % mod;
-        }
+//         if(ans < 0) {
+//             ans = (ans + mod) % mod;
+//         }
         
         return (int)(ans % mod);
     }
