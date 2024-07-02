@@ -18,9 +18,26 @@
 ## Array
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/iampushkar/DsAlgorithms/tree/master/0349-intersection-of-two-arrays) |
 | [1755-defuse-the-bomb](https://github.com/iampushkar/DsAlgorithms/tree/master/1755-defuse-the-bomb) |
 ## Sliding Window
 |  |
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/iampushkar/DsAlgorithms/tree/master/1755-defuse-the-bomb) |
+## Hash Table
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/iampushkar/DsAlgorithms/tree/master/0349-intersection-of-two-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/iampushkar/DsAlgorithms/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/iampushkar/DsAlgorithms/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/iampushkar/DsAlgorithms/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
