@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/iampushkar/DsAlgorithms/tree/master/0198-house-robber) |
 | [0349-intersection-of-two-arrays](https://github.com/iampushkar/DsAlgorithms/tree/master/0349-intersection-of-two-arrays) |
 | [1755-defuse-the-bomb](https://github.com/iampushkar/DsAlgorithms/tree/master/1755-defuse-the-bomb) |
 ## Sliding Window
@@ -48,4 +49,8 @@
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/iampushkar/DsAlgorithms/tree/master/1642-water-bottles) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/iampushkar/DsAlgorithms/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
