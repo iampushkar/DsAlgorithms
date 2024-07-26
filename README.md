@@ -22,6 +22,7 @@
 | [0213-house-robber-ii](https://github.com/iampushkar/DsAlgorithms/tree/master/0213-house-robber-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/iampushkar/DsAlgorithms/tree/master/0349-intersection-of-two-arrays) |
 | [1755-defuse-the-bomb](https://github.com/iampushkar/DsAlgorithms/tree/master/1755-defuse-the-bomb) |
+| [2058-concatenation-of-array](https://github.com/iampushkar/DsAlgorithms/tree/master/2058-concatenation-of-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/iampushkar/DsAlgorithms/tree/master/1642-water-bottles) |
+| [2058-concatenation-of-array](https://github.com/iampushkar/DsAlgorithms/tree/master/2058-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
