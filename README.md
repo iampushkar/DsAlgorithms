@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/iampushkar/DsAlgorithms/tree/master/0349-intersection-of-two-arrays) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/iampushkar/DsAlgorithms/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,4 +64,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/iampushkar/DsAlgorithms/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/iampushkar/DsAlgorithms/tree/master/0920-uncommon-words-from-two-sentences) |
+## Counting
+|  |
+| ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/iampushkar/DsAlgorithms/tree/master/0920-uncommon-words-from-two-sentences) |
 <!---LeetCode Topics End-->
