@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/iampushkar/DsAlgorithms/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/iampushkar/DsAlgorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/iampushkar/DsAlgorithms/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/iampushkar/DsAlgorithms/tree/master/0213-house-robber-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/iampushkar/DsAlgorithms/tree/master/0349-intersection-of-two-arrays) |
@@ -43,6 +44,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/iampushkar/DsAlgorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/iampushkar/DsAlgorithms/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
