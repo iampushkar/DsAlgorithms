@@ -58,6 +58,7 @@
 ## Math
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/iampushkar/DsAlgorithms/tree/master/0670-maximum-swap) |
 | [1642-water-bottles](https://github.com/iampushkar/DsAlgorithms/tree/master/1642-water-bottles) |
 ## Simulation
 |  |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/iampushkar/DsAlgorithms/tree/master/0011-container-with-most-water) |
+| [0670-maximum-swap](https://github.com/iampushkar/DsAlgorithms/tree/master/0670-maximum-swap) |
 ## String
 |  |
 | ------- |
