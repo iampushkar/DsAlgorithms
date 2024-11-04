@@ -13,7 +13,7 @@ class Solution {
                 ans.append(arr[i]);
             }
         }
-        ans = ans.append(arr[N-2]).append(arr[N-1]);
+        ans.append(arr[N-2]).append(arr[N-1]);
         return ans.toString();
     }
 }
