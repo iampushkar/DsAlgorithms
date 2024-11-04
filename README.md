@@ -84,6 +84,7 @@
 | [0242-valid-anagram](https://github.com/iampushkar/DsAlgorithms/tree/master/0242-valid-anagram) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/iampushkar/DsAlgorithms/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/iampushkar/DsAlgorithms/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2580-circular-sentence](https://github.com/iampushkar/DsAlgorithms/tree/master/2580-circular-sentence) |
 ## Counting
 |  |
 | ------- |
