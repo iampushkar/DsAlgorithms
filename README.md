@@ -27,6 +27,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iampushkar/DsAlgorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1755-defuse-the-bomb](https://github.com/iampushkar/DsAlgorithms/tree/master/1755-defuse-the-bomb) |
 | [2058-concatenation-of-array](https://github.com/iampushkar/DsAlgorithms/tree/master/2058-concatenation-of-array) |
+| [3291-find-if-array-can-be-sorted](https://github.com/iampushkar/DsAlgorithms/tree/master/3291-find-if-array-can-be-sorted) |
 ## Sliding Window
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0242-valid-anagram](https://github.com/iampushkar/DsAlgorithms/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/iampushkar/DsAlgorithms/tree/master/0349-intersection-of-two-arrays) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/iampushkar/DsAlgorithms/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3291-find-if-array-can-be-sorted](https://github.com/iampushkar/DsAlgorithms/tree/master/3291-find-if-array-can-be-sorted) |
 ## Math
 |  |
 | ------- |
@@ -121,4 +123,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/iampushkar/DsAlgorithms/tree/master/0812-rotate-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/iampushkar/DsAlgorithms/tree/master/3291-find-if-array-can-be-sorted) |
 <!---LeetCode Topics End-->
