@@ -27,6 +27,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iampushkar/DsAlgorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1755-defuse-the-bomb](https://github.com/iampushkar/DsAlgorithms/tree/master/1755-defuse-the-bomb) |
 | [2058-concatenation-of-array](https://github.com/iampushkar/DsAlgorithms/tree/master/2058-concatenation-of-array) |
+| [2716-prime-subtraction-operation](https://github.com/iampushkar/DsAlgorithms/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/iampushkar/DsAlgorithms/tree/master/3291-find-if-array-can-be-sorted) |
 ## Sliding Window
 |  |
@@ -51,6 +52,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/iampushkar/DsAlgorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/iampushkar/DsAlgorithms/tree/master/0349-intersection-of-two-arrays) |
+| [2716-prime-subtraction-operation](https://github.com/iampushkar/DsAlgorithms/tree/master/2716-prime-subtraction-operation) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | ------- |
 | [0670-maximum-swap](https://github.com/iampushkar/DsAlgorithms/tree/master/0670-maximum-swap) |
 | [1642-water-bottles](https://github.com/iampushkar/DsAlgorithms/tree/master/1642-water-bottles) |
+| [2716-prime-subtraction-operation](https://github.com/iampushkar/DsAlgorithms/tree/master/2716-prime-subtraction-operation) |
 ## Simulation
 |  |
 | ------- |
@@ -80,6 +83,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/iampushkar/DsAlgorithms/tree/master/0011-container-with-most-water) |
 | [0670-maximum-swap](https://github.com/iampushkar/DsAlgorithms/tree/master/0670-maximum-swap) |
+| [2716-prime-subtraction-operation](https://github.com/iampushkar/DsAlgorithms/tree/master/2716-prime-subtraction-operation) |
 ## String
 |  |
 | ------- |
@@ -128,4 +132,8 @@
 | ------- |
 | [3291-find-if-array-can-be-sorted](https://github.com/iampushkar/DsAlgorithms/tree/master/3291-find-if-array-can-be-sorted) |
 | [3394-minimum-array-end](https://github.com/iampushkar/DsAlgorithms/tree/master/3394-minimum-array-end) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/iampushkar/DsAlgorithms/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
