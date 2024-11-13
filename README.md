@@ -27,6 +27,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iampushkar/DsAlgorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1755-defuse-the-bomb](https://github.com/iampushkar/DsAlgorithms/tree/master/1755-defuse-the-bomb) |
 | [2058-concatenation-of-array](https://github.com/iampushkar/DsAlgorithms/tree/master/2058-concatenation-of-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/iampushkar/DsAlgorithms/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/iampushkar/DsAlgorithms/tree/master/2716-prime-subtraction-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/iampushkar/DsAlgorithms/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3291-find-if-array-can-be-sorted](https://github.com/iampushkar/DsAlgorithms/tree/master/3291-find-if-array-can-be-sorted) |
@@ -48,12 +49,14 @@
 | [0088-merge-sorted-array](https://github.com/iampushkar/DsAlgorithms/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/iampushkar/DsAlgorithms/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/iampushkar/DsAlgorithms/tree/master/0349-intersection-of-two-arrays) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/iampushkar/DsAlgorithms/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/iampushkar/DsAlgorithms/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/iampushkar/DsAlgorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/iampushkar/DsAlgorithms/tree/master/0349-intersection-of-two-arrays) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/iampushkar/DsAlgorithms/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/iampushkar/DsAlgorithms/tree/master/2716-prime-subtraction-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/iampushkar/DsAlgorithms/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -63,6 +66,7 @@
 | [0242-valid-anagram](https://github.com/iampushkar/DsAlgorithms/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/iampushkar/DsAlgorithms/tree/master/0349-intersection-of-two-arrays) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/iampushkar/DsAlgorithms/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/iampushkar/DsAlgorithms/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/iampushkar/DsAlgorithms/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3291-find-if-array-can-be-sorted](https://github.com/iampushkar/DsAlgorithms/tree/master/3291-find-if-array-can-be-sorted) |
 ## Math
