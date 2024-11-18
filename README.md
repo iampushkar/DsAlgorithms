@@ -30,6 +30,7 @@
 | [1755-defuse-the-bomb](https://github.com/iampushkar/DsAlgorithms/tree/master/1755-defuse-the-bomb) |
 | [2058-concatenation-of-array](https://github.com/iampushkar/DsAlgorithms/tree/master/2058-concatenation-of-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/iampushkar/DsAlgorithms/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2428-equal-row-and-column-pairs](https://github.com/iampushkar/DsAlgorithms/tree/master/2428-equal-row-and-column-pairs) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/iampushkar/DsAlgorithms/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/iampushkar/DsAlgorithms/tree/master/2716-prime-subtraction-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/iampushkar/DsAlgorithms/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -47,6 +48,7 @@
 | [0242-valid-anagram](https://github.com/iampushkar/DsAlgorithms/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/iampushkar/DsAlgorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/iampushkar/DsAlgorithms/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2428-equal-row-and-column-pairs](https://github.com/iampushkar/DsAlgorithms/tree/master/2428-equal-row-and-column-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | ------- |
 | [1642-water-bottles](https://github.com/iampushkar/DsAlgorithms/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/iampushkar/DsAlgorithms/tree/master/2058-concatenation-of-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/iampushkar/DsAlgorithms/tree/master/2428-equal-row-and-column-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -140,6 +143,7 @@
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iampushkar/DsAlgorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2428-equal-row-and-column-pairs](https://github.com/iampushkar/DsAlgorithms/tree/master/2428-equal-row-and-column-pairs) |
 ## String Matching
 |  |
 | ------- |
