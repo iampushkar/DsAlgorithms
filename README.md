@@ -30,6 +30,7 @@
 | [1755-defuse-the-bomb](https://github.com/iampushkar/DsAlgorithms/tree/master/1755-defuse-the-bomb) |
 | [2058-concatenation-of-array](https://github.com/iampushkar/DsAlgorithms/tree/master/2058-concatenation-of-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/iampushkar/DsAlgorithms/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/iampushkar/DsAlgorithms/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2428-equal-row-and-column-pairs](https://github.com/iampushkar/DsAlgorithms/tree/master/2428-equal-row-and-column-pairs) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/iampushkar/DsAlgorithms/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/iampushkar/DsAlgorithms/tree/master/2716-prime-subtraction-operation) |
@@ -111,6 +112,7 @@
 | [0812-rotate-string](https://github.com/iampushkar/DsAlgorithms/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/iampushkar/DsAlgorithms/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/iampushkar/DsAlgorithms/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/iampushkar/DsAlgorithms/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2580-circular-sentence](https://github.com/iampushkar/DsAlgorithms/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/iampushkar/DsAlgorithms/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Counting
@@ -148,6 +150,7 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/iampushkar/DsAlgorithms/tree/master/0812-rotate-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/iampushkar/DsAlgorithms/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
