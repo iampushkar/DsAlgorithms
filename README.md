@@ -50,6 +50,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/iampushkar/DsAlgorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/iampushkar/DsAlgorithms/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2428-equal-row-and-column-pairs](https://github.com/iampushkar/DsAlgorithms/tree/master/2428-equal-row-and-column-pairs) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/iampushkar/DsAlgorithms/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,10 +116,12 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/iampushkar/DsAlgorithms/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2580-circular-sentence](https://github.com/iampushkar/DsAlgorithms/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/iampushkar/DsAlgorithms/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/iampushkar/DsAlgorithms/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/iampushkar/DsAlgorithms/tree/master/0920-uncommon-words-from-two-sentences) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/iampushkar/DsAlgorithms/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Linked List
 |  |
 | ------- |
