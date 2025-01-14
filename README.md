@@ -87,6 +87,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/iampushkar/DsAlgorithms/tree/master/0062-unique-paths) |
 | [0670-maximum-swap](https://github.com/iampushkar/DsAlgorithms/tree/master/0670-maximum-swap) |
 | [1642-water-bottles](https://github.com/iampushkar/DsAlgorithms/tree/master/1642-water-bottles) |
 | [2716-prime-subtraction-operation](https://github.com/iampushkar/DsAlgorithms/tree/master/2716-prime-subtraction-operation) |
@@ -99,6 +100,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/iampushkar/DsAlgorithms/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/iampushkar/DsAlgorithms/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/iampushkar/DsAlgorithms/tree/master/0213-house-robber-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iampushkar/DsAlgorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -174,4 +176,8 @@
 |  |
 | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/iampushkar/DsAlgorithms/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/iampushkar/DsAlgorithms/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
