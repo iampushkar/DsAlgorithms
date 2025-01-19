@@ -14,7 +14,7 @@ class Solution {
     private int solve(int[][] grid, int row, int col, int[][] dp) {
         // base case
         if (row == 0 && col == 0) return grid[0][0];
-        if (row < 0 || col < 0) return Integer.MAX_VALUE - 10000;
+        if (row < 0 || col < 0) return (int) Math.pow(10, 9); // returning a large num
 
         if (dp[row][col] != -1) return dp[row][col];
 
