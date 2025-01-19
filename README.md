@@ -20,6 +20,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/iampushkar/DsAlgorithms/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/iampushkar/DsAlgorithms/tree/master/0033-search-in-rotated-sorted-array) |
+| [0063-unique-paths-ii](https://github.com/iampushkar/DsAlgorithms/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/iampushkar/DsAlgorithms/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/iampushkar/DsAlgorithms/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/iampushkar/DsAlgorithms/tree/master/0213-house-robber-ii) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/iampushkar/DsAlgorithms/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/iampushkar/DsAlgorithms/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/iampushkar/DsAlgorithms/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/iampushkar/DsAlgorithms/tree/master/0213-house-robber-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iampushkar/DsAlgorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -151,6 +153,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/iampushkar/DsAlgorithms/tree/master/0063-unique-paths-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iampushkar/DsAlgorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2428-equal-row-and-column-pairs](https://github.com/iampushkar/DsAlgorithms/tree/master/2428-equal-row-and-column-pairs) |
 ## String Matching
