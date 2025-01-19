@@ -23,6 +23,7 @@
 | [0063-unique-paths-ii](https://github.com/iampushkar/DsAlgorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/iampushkar/DsAlgorithms/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/iampushkar/DsAlgorithms/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/iampushkar/DsAlgorithms/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/iampushkar/DsAlgorithms/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/iampushkar/DsAlgorithms/tree/master/0213-house-robber-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/iampushkar/DsAlgorithms/tree/master/0349-intersection-of-two-arrays) |
@@ -105,6 +106,7 @@
 | [0062-unique-paths](https://github.com/iampushkar/DsAlgorithms/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/iampushkar/DsAlgorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/iampushkar/DsAlgorithms/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/iampushkar/DsAlgorithms/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/iampushkar/DsAlgorithms/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/iampushkar/DsAlgorithms/tree/master/0213-house-robber-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iampushkar/DsAlgorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
