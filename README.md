@@ -28,6 +28,7 @@
 | [0213-house-robber-ii](https://github.com/iampushkar/DsAlgorithms/tree/master/0213-house-robber-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/iampushkar/DsAlgorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0907-koko-eating-bananas](https://github.com/iampushkar/DsAlgorithms/tree/master/0907-koko-eating-bananas) |
+| [1396-count-servers-that-communicate](https://github.com/iampushkar/DsAlgorithms/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iampushkar/DsAlgorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/iampushkar/DsAlgorithms/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/iampushkar/DsAlgorithms/tree/master/1755-defuse-the-bomb) |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/iampushkar/DsAlgorithms/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1396-count-servers-that-communicate](https://github.com/iampushkar/DsAlgorithms/tree/master/1396-count-servers-that-communicate) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/iampushkar/DsAlgorithms/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Linked List
 |  |
@@ -144,6 +146,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/iampushkar/DsAlgorithms/tree/master/1396-count-servers-that-communicate) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/iampushkar/DsAlgorithms/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -154,11 +157,13 @@
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/iampushkar/DsAlgorithms/tree/master/0988-flip-equivalent-binary-trees) |
+| [1396-count-servers-that-communicate](https://github.com/iampushkar/DsAlgorithms/tree/master/1396-count-servers-that-communicate) |
 ## Matrix
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/iampushkar/DsAlgorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/iampushkar/DsAlgorithms/tree/master/0064-minimum-path-sum) |
+| [1396-count-servers-that-communicate](https://github.com/iampushkar/DsAlgorithms/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iampushkar/DsAlgorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2428-equal-row-and-column-pairs](https://github.com/iampushkar/DsAlgorithms/tree/master/2428-equal-row-and-column-pairs) |
 ## String Matching
@@ -188,4 +193,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/iampushkar/DsAlgorithms/tree/master/0062-unique-paths) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/iampushkar/DsAlgorithms/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
