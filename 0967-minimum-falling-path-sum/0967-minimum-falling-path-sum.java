@@ -5,7 +5,7 @@ class Solution {
         // int[][] dp = new int[ROWS][COLS];
 
         // for (int[] row : dp) {
-        //     Arrays.fill(row, -1);
+        // Arrays.fill(row, -1);
         // }
 
         // int res = Integer.MAX_VALUE;
@@ -47,24 +47,9 @@ class Solution {
 
         for (int i = 1; i < n; i++) {
             for (int j = 0; j < n; j++) {
-                int leftUpDiagonal = 0, rightUpDiagonal = 0;
-
                 int up = dp[i - 1][j];
-
-                leftUpDiagonal = (j > 0) ?  dp[i - 1][j - 1] : (int) Math.pow(10, 9);
-
-                rightUpDiagonal = (j < n - 1) ? dp[i - 1][j + 1] : (int) Math.pow(10, 9);
-
-                // if (j > 0)
-                //     leftUpDiagonal = matrix[i][j] + dp[i - 1][j - 1];
-                // else
-                //     leftUpDiagonal = (int) 1e9;
-
-                // if (j + 1 < n)
-                //     diag2 = matrix[i][j] + dp[i - 1][j + 1];
-                // else
-                //     diag2 = (int) 1e9;
-
+                int leftUpDiagonal = (j > 0) ? dp[i - 1][j - 1] : (int) Math.pow(10, 9);
+                int rightUpDiagonal = (j < n - 1) ? dp[i - 1][j + 1] : (int) Math.pow(10, 9);
                 int minPath = matrix[i][j] + Math.min(up, Math.min(leftUpDiagonal, rightUpDiagonal));
                 dp[i][j] = minPath;
             }
