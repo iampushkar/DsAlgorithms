@@ -18,7 +18,7 @@ class Solution {
     private int memo(int i, int j1, int j2, int[][] mat, int N, int M, int[][][] dp) {
         // base case
         if (j1 < 0 || j1 > M-1 || j2 < 0 || j2 > M-1) {
-            return (int) Math.pow(-10, 9);
+            return Integer.MIN_VALUE;
         }
         if (i == N - 1) {
             // cases 
