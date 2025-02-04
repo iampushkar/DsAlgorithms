@@ -35,6 +35,7 @@
 | [1559-cherry-pickup-ii](https://github.com/iampushkar/DsAlgorithms/tree/master/1559-cherry-pickup-ii) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/iampushkar/DsAlgorithms/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/iampushkar/DsAlgorithms/tree/master/1755-defuse-the-bomb) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/iampushkar/DsAlgorithms/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2058-concatenation-of-array](https://github.com/iampushkar/DsAlgorithms/tree/master/2058-concatenation-of-array) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/iampushkar/DsAlgorithms/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/iampushkar/DsAlgorithms/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
