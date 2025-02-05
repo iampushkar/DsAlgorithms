@@ -60,6 +60,7 @@
 | [0242-valid-anagram](https://github.com/iampushkar/DsAlgorithms/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/iampushkar/DsAlgorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/iampushkar/DsAlgorithms/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/iampushkar/DsAlgorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2428-equal-row-and-column-pairs](https://github.com/iampushkar/DsAlgorithms/tree/master/2428-equal-row-and-column-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/iampushkar/DsAlgorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/iampushkar/DsAlgorithms/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -136,6 +137,7 @@
 | [0812-rotate-string](https://github.com/iampushkar/DsAlgorithms/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/iampushkar/DsAlgorithms/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/iampushkar/DsAlgorithms/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/iampushkar/DsAlgorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/iampushkar/DsAlgorithms/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2580-circular-sentence](https://github.com/iampushkar/DsAlgorithms/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/iampushkar/DsAlgorithms/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -145,6 +147,7 @@
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/iampushkar/DsAlgorithms/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1396-count-servers-that-communicate](https://github.com/iampushkar/DsAlgorithms/tree/master/1396-count-servers-that-communicate) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/iampushkar/DsAlgorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/iampushkar/DsAlgorithms/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Linked List
 |  |
