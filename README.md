@@ -30,6 +30,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/iampushkar/DsAlgorithms/tree/master/0416-partition-equal-subset-sum) |
 | [0907-koko-eating-bananas](https://github.com/iampushkar/DsAlgorithms/tree/master/0907-koko-eating-bananas) |
 | [0967-minimum-falling-path-sum](https://github.com/iampushkar/DsAlgorithms/tree/master/0967-minimum-falling-path-sum) |
+| [1364-tuple-with-same-product](https://github.com/iampushkar/DsAlgorithms/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/iampushkar/DsAlgorithms/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iampushkar/DsAlgorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1559-cherry-pickup-ii](https://github.com/iampushkar/DsAlgorithms/tree/master/1559-cherry-pickup-ii) |
@@ -60,6 +61,7 @@
 | [0242-valid-anagram](https://github.com/iampushkar/DsAlgorithms/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/iampushkar/DsAlgorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/iampushkar/DsAlgorithms/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1364-tuple-with-same-product](https://github.com/iampushkar/DsAlgorithms/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/iampushkar/DsAlgorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2428-equal-row-and-column-pairs](https://github.com/iampushkar/DsAlgorithms/tree/master/2428-equal-row-and-column-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/iampushkar/DsAlgorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -146,6 +148,7 @@
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/iampushkar/DsAlgorithms/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1364-tuple-with-same-product](https://github.com/iampushkar/DsAlgorithms/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/iampushkar/DsAlgorithms/tree/master/1396-count-servers-that-communicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/iampushkar/DsAlgorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/iampushkar/DsAlgorithms/tree/master/3455-minimum-length-of-string-after-operations) |
