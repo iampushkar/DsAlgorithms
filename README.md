@@ -48,6 +48,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/iampushkar/DsAlgorithms/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3291-find-if-array-can-be-sorted](https://github.com/iampushkar/DsAlgorithms/tree/master/3291-find-if-array-can-be-sorted) |
 | [3429-special-array-i](https://github.com/iampushkar/DsAlgorithms/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/iampushkar/DsAlgorithms/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/iampushkar/DsAlgorithms/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Sliding Window
 |  |
@@ -65,6 +66,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/iampushkar/DsAlgorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2428-equal-row-and-column-pairs](https://github.com/iampushkar/DsAlgorithms/tree/master/2428-equal-row-and-column-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/iampushkar/DsAlgorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/iampushkar/DsAlgorithms/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/iampushkar/DsAlgorithms/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Two Pointers
 |  |
@@ -112,6 +114,7 @@
 | [1642-water-bottles](https://github.com/iampushkar/DsAlgorithms/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/iampushkar/DsAlgorithms/tree/master/2058-concatenation-of-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/iampushkar/DsAlgorithms/tree/master/2428-equal-row-and-column-pairs) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/iampushkar/DsAlgorithms/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Dynamic Programming
 |  |
 | ------- |
