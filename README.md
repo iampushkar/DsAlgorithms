@@ -112,6 +112,7 @@
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/iampushkar/DsAlgorithms/tree/master/1642-water-bottles) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/iampushkar/DsAlgorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/iampushkar/DsAlgorithms/tree/master/2058-concatenation-of-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/iampushkar/DsAlgorithms/tree/master/2428-equal-row-and-column-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/iampushkar/DsAlgorithms/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -143,6 +144,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/iampushkar/DsAlgorithms/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/iampushkar/DsAlgorithms/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/iampushkar/DsAlgorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/iampushkar/DsAlgorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/iampushkar/DsAlgorithms/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2580-circular-sentence](https://github.com/iampushkar/DsAlgorithms/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/iampushkar/DsAlgorithms/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -209,6 +211,7 @@
 |  |
 | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/iampushkar/DsAlgorithms/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/iampushkar/DsAlgorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
