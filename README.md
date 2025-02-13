@@ -47,6 +47,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/iampushkar/DsAlgorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/iampushkar/DsAlgorithms/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3291-find-if-array-can-be-sorted](https://github.com/iampushkar/DsAlgorithms/tree/master/3291-find-if-array-can-be-sorted) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/iampushkar/DsAlgorithms/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3429-special-array-i](https://github.com/iampushkar/DsAlgorithms/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/iampushkar/DsAlgorithms/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/iampushkar/DsAlgorithms/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -115,6 +116,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/iampushkar/DsAlgorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/iampushkar/DsAlgorithms/tree/master/2058-concatenation-of-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/iampushkar/DsAlgorithms/tree/master/2428-equal-row-and-column-pairs) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/iampushkar/DsAlgorithms/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/iampushkar/DsAlgorithms/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Dynamic Programming
 |  |
@@ -232,4 +234,8 @@
 |  |
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/iampushkar/DsAlgorithms/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/iampushkar/DsAlgorithms/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 <!---LeetCode Topics End-->
