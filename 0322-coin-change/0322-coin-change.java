@@ -8,10 +8,7 @@ class Solution {
         }
 
         int ans = solve(dp, N-1, coins, amount);
-        if (ans == (int) Math.pow(10, 9)) {
-            return -1;
-        }
-        return ans;
+        return (ans == (int) Math.pow(10, 9)) ? -1 : ans;
     }
 
     private int solve(int[][] dp, int ind, int[] coins, int amount) {
