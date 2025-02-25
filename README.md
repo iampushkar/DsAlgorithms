@@ -35,6 +35,7 @@
 | [1396-count-servers-that-communicate](https://github.com/iampushkar/DsAlgorithms/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iampushkar/DsAlgorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1559-cherry-pickup-ii](https://github.com/iampushkar/DsAlgorithms/tree/master/1559-cherry-pickup-ii) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iampushkar/DsAlgorithms/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/iampushkar/DsAlgorithms/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/iampushkar/DsAlgorithms/tree/master/1755-defuse-the-bomb) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/iampushkar/DsAlgorithms/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -109,6 +110,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/iampushkar/DsAlgorithms/tree/master/0062-unique-paths) |
 | [0670-maximum-swap](https://github.com/iampushkar/DsAlgorithms/tree/master/0670-maximum-swap) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iampushkar/DsAlgorithms/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/iampushkar/DsAlgorithms/tree/master/1642-water-bottles) |
 | [2716-prime-subtraction-operation](https://github.com/iampushkar/DsAlgorithms/tree/master/2716-prime-subtraction-operation) |
 ## Simulation
@@ -134,6 +136,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/iampushkar/DsAlgorithms/tree/master/0967-minimum-falling-path-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iampushkar/DsAlgorithms/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1559-cherry-pickup-ii](https://github.com/iampushkar/DsAlgorithms/tree/master/1559-cherry-pickup-ii) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iampushkar/DsAlgorithms/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/iampushkar/DsAlgorithms/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Greedy
 |  |
@@ -248,4 +251,8 @@
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/iampushkar/DsAlgorithms/tree/master/1160-letter-tile-possibilities) |
+## Prefix Sum
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iampushkar/DsAlgorithms/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
