@@ -80,6 +80,7 @@
 | [0141-linked-list-cycle](https://github.com/iampushkar/DsAlgorithms/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/iampushkar/DsAlgorithms/tree/master/0349-intersection-of-two-arrays) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/iampushkar/DsAlgorithms/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1894-merge-strings-alternately](https://github.com/iampushkar/DsAlgorithms/tree/master/1894-merge-strings-alternately) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/iampushkar/DsAlgorithms/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/iampushkar/DsAlgorithms/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/iampushkar/DsAlgorithms/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -152,6 +153,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/iampushkar/DsAlgorithms/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1160-letter-tile-possibilities](https://github.com/iampushkar/DsAlgorithms/tree/master/1160-letter-tile-possibilities) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/iampushkar/DsAlgorithms/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1894-merge-strings-alternately](https://github.com/iampushkar/DsAlgorithms/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/iampushkar/DsAlgorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/iampushkar/DsAlgorithms/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/iampushkar/DsAlgorithms/tree/master/2292-counting-words-with-a-given-prefix) |
