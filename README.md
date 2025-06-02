@@ -129,6 +129,7 @@
 | [0062-unique-paths](https://github.com/iampushkar/DsAlgorithms/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/iampushkar/DsAlgorithms/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/iampushkar/DsAlgorithms/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/iampushkar/DsAlgorithms/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/iampushkar/DsAlgorithms/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/iampushkar/DsAlgorithms/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/iampushkar/DsAlgorithms/tree/master/0213-house-robber-ii) |
@@ -148,6 +149,7 @@
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/iampushkar/DsAlgorithms/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/iampushkar/DsAlgorithms/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/iampushkar/DsAlgorithms/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/iampushkar/DsAlgorithms/tree/master/0920-uncommon-words-from-two-sentences) |
