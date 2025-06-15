@@ -111,6 +111,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/iampushkar/DsAlgorithms/tree/master/0062-unique-paths) |
 | [0670-maximum-swap](https://github.com/iampushkar/DsAlgorithms/tree/master/0670-maximum-swap) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/iampushkar/DsAlgorithms/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iampushkar/DsAlgorithms/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/iampushkar/DsAlgorithms/tree/master/1642-water-bottles) |
 | [2716-prime-subtraction-operation](https://github.com/iampushkar/DsAlgorithms/tree/master/2716-prime-subtraction-operation) |
@@ -145,6 +146,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/iampushkar/DsAlgorithms/tree/master/0011-container-with-most-water) |
 | [0670-maximum-swap](https://github.com/iampushkar/DsAlgorithms/tree/master/0670-maximum-swap) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/iampushkar/DsAlgorithms/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2716-prime-subtraction-operation](https://github.com/iampushkar/DsAlgorithms/tree/master/2716-prime-subtraction-operation) |
 ## String
 |  |
